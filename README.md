@@ -1,4 +1,4 @@
-This tool sorts files of any extension based on file names, the last (deepest level) sub-repositories are named after the file extensions.
+This tool sorts files of any extension based on file names, the last (deepest) sub-repositories are named after the file extensions.
 
 How to use,
 
